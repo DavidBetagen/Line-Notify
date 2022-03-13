@@ -1,7 +1,7 @@
 import requests
 
 url = 'https://notify-api.line.me/api/notify'
-token = 'JhexxaWsjUS1lxxxxx' # Line token
+token = 'your token' # Line token
 headers = {
      'content-type':'application/x-www-form-urlencoded',
      'Authorization':'Bearer ' + token
